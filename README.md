@@ -4,7 +4,7 @@ Welcome to your new d_keeper project and to the internet computer development co
 
 NOTE: This project uses dfx or Difinity so you might want to download that if you are trying to run the app.
 
-NOTE: Deploying on Internet Computer requires me to spend ICP Tokens to get computational cycles and would have to refill it everytime it runs out, Hence Im not deploying it on the ICP Blockchain yet.
+NOTE: Deploying on Internet Computer requires me to spend ICP Tokens to get computational cycles and would have to refill it every time it runs out, Hence I'm not deploying it on the ICP Blockchain. Although all the canisters required, are built.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
