@@ -2,6 +2,10 @@
 
 Welcome to your new d_keeper project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
+NOTE: This project uses dfx or Difinity so you might want to download that if you are trying to run the app.
+
+NOTE: Deploying on Internet Computer requires me to spend ICP Tokens to get computational cycles and would have to refill it everytime it runs out, Hence Im not deploying it on the ICP Blockchain yet.
+
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with d_keeper, see the following documentation available online:
